@@ -1,0 +1,6 @@
+module Pods_QuickFold {
+  umbrella header "Pods-QuickFold-umbrella.h"
+
+  export *
+  module * { export * }
+}

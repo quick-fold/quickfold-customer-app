@@ -1,0 +1,6 @@
+module Pods_QuickFold_QuickFoldTests {
+  umbrella header "Pods-QuickFold-QuickFoldTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
